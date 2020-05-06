@@ -1,0 +1,68 @@
+.pk3{
+margin:0;
+padding:0;
+background-size: auto; 
+background: url(tony.jpg);
+}
+
+.pavan{
+    border-radius: 100vh;
+    border-color: rgb(54, 54, 245);
+    width: 150px;
+    border:3px solid cyan;
+    display: flexbox;
+}
+
+
+.pk4{
+    width: 400px;
+    padding: 40px;
+    margin: auto;
+    color:lightblue;
+    text-align: center;
+    margin-top: 5%;
+    background-color:rgb(0,0,0,0.4);
+    box-shadow: rgb(122, 122, 212);
+    font-family: "ocrs","montserat",sans-serif;
+    filter: drop-shadow(0 0 70px rgb(107, 103, 103));
+    box-shadow: 0 0 10px rgb(48, 99, 99);
+    scrollbar-shadow-color:0 0 10px  cyan;
+
+
+}
+.pk4 {
+    font-size: 15px;
+    
+}
+.pk4 h1 ,h2, h3{
+    color: cyan;
+    padding-top: 20px;
+    padding-bottom: 0;
+    font-weight: 100;
+    text-shadow: 1px 1px 8px black,0 3 70px blue, 6px 10px darkcyan;
+}
+
+
+
+.pk4 ul{
+    margin: 0;
+    padding: 0;
+
+
+}
+.pk4 li{
+    display: inline;
+    margin: 6px;
+    list-style: none;
+
+}
+.pk4 li{
+    color: darkcyan;
+    text-decoration: none;
+    font-size: 45px;
+    text-decoration: none;
+    transition: all ease-in-out;
+}
+.pk4 li a:hover{
+    color: rgb(24, 13, 13);
+}
